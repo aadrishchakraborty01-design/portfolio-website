@@ -44,7 +44,7 @@ PORT=5000
 ```bash
 npm start
 ```
-Open [http://localhost:5000](http://localhost:5000) in your browser.
+Open [http://localhost:5000](http://localhost:3001) in your browser.
 
 ## Project Structure
 ```
